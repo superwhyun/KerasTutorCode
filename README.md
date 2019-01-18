@@ -20,7 +20,13 @@ Tutorial codes for Keras
   - https://tykimos.github.io/2017/08/07/Keras_Install_on_Mac/
   
 ## CIFAR
+- CIFAR-10 : 10개의 클래스, 32x32 픽셀 이미지, 5만개 훈련 이미지, 1만개 테스트 이미지로 구성, 클래스당 6000개 이미지
+- 작은 이미지에 하나의 객체만 포함됨
+- CIFAR-100 : 100개의 클래스, 32x32 픽셀 이미지, 5만개 훈련 이미지, 1만개 테스트 이미지로 구성, 클래스당 600개 이미지
 
 
 
-## 
+## Fashion-MNIST
+- MNIST가 너무 쉬워서 대체용으로 만들어진 것. 구성은 MNIST와 유사
+
+
